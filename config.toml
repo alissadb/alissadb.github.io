@@ -1,0 +1,4 @@
+baseURL = 'https://alissadb.github.io'
+languageCode = 'en-us'
+title = 'Alissa'
+theme = "PaperMod"
